@@ -42,12 +42,10 @@
     brews = [
       "herdr"
       "age"
-      "azure-cli"
       "gh"
       "postgresql@14"
       "postgresql@17"
       "sbt"
-      "tmux"
       "mongodb-community"
       "mongodb-database-tools"
     ];
